@@ -38,10 +38,5 @@ class RestControllerTest extends TestCase
         $this->assertDatabaseHas('rests', $data);
     }
 
-    public function test_show_rest()
-    {
-        $item = Rest::factory()0>
-    }
-
     
 }
